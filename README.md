@@ -1,5 +1,7 @@
 # check the releases for the iso! -->
 
+# i also post on internet archive
+
 # ❄️ GlacierOS
 A lightweight Arch-based Linux distribution featuring the beautiful Nord color scheme. Cold. Clean. Fast.
 ## Features
